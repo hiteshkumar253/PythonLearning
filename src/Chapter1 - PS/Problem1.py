@@ -1,4 +1,5 @@
-# Print multiline use triple or triple ''')
+# Write a Python program to print the following string in a specific format (see the output).
+# Print multiline use triple quotes.'''
 
 print('''Twinkle, twinkle, little star,
 How I wonder what you are!

@@ -1,4 +1,9 @@
-import os
+# This script lists all files and directories in a specified directory.
+# os module in Python provides a way of using operating system dependent functionality like reading or
+# writing to the file system.
+
+
+import os  # Importing the os module to interact with the operating system
 
 # Specify the path to the directory you want to list
 # Use '.' for current directory
