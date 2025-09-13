@@ -4,7 +4,7 @@ print(type(a))
 b = 31.2
 print(type(b))
 
-c = "Haryom"
+c = "Hari om"
 print(type(c))
 
 

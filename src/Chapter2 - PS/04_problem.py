@@ -1,7 +1,9 @@
-a = int(input("Enter number a: "))
+# Write a python script to check whether a given number is greater than the user entered number or not.
 
-b = int(input("Enter number b: "))
+a = int(input("Given number: "))
 
-C = (a>b)
+b = int(input("Number entered by user : "))
 
-print(f"Checking number a {a} is greater than number b {b} is : ", a>b)
+C = (a > b)
+
+print(f"Checking given number {a} is greater than number entered by user {b} is : ", a > b)
