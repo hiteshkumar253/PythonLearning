@@ -1,6 +1,6 @@
 # This program uses the pyjokes library to print a random joke.
 
-import pyjokes
+import pyjokes  # importing the pyjokes library
 
 # This prints random jokes
 
