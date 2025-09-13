@@ -1,5 +1,9 @@
+# Create a dictionary to store the names of your friends and their favorite programming languages.
+# If the name of 2 friends are same, what will happen to the program?
+# Use the input function to get the names and languages from the user.
 
-d = {}
+
+d = {}  # Initialize an empty dictionary
 
 name = input("Enter first friends name: ")
 lang = input("Enter Language name: ")

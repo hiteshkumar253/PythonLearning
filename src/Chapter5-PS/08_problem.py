@@ -1,3 +1,6 @@
+# Create a dictionary to store the names of your friends and their favorite programming languages.
+# If the language of two friends are same, what will happen to the program?
+# Use the input function to get the names and languages from the user.
 
 d = {}
 

@@ -1,3 +1,5 @@
+# Create a dictionary to store the names of your friends and their favorite programming languages.
+
 d = {}
 
 name = input("Enter first friends name: ")
